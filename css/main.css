@@ -2681,18 +2681,18 @@ html.no-csstransitions .home-content__main {
 /* ===================================================================
  * # footer
  * ------------------------------------------------------------------- */
-footer {
+#footer {
     height: 250px;
     padding-top: 50px;
     background: #f0e6dd;
 }
 
-footer p {
+#footer p {
     font-size: 5.5rem;
     text-align: center;
 }
 
-footer img {
+#footer img {
     float: right;
     width: 80px;
     margin-right: 50px;
