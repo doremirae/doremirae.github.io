@@ -2681,10 +2681,12 @@ html.no-csstransitions .home-content__main {
 /* ===================================================================
  * # footer
  * ------------------------------------------------------------------- */
+
 #footer {
     height: 250px;
     padding-top: 50px;
-    background: #f0e6dd;
+    background: pink;
+/*    background: #f0e6dd;*/
 }
 
 #footer p {
